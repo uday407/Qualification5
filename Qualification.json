@@ -1,0 +1,20 @@
+{
+    "qualifications": {
+      "schooling": {
+        "degree": "10TH CLASS",
+        "school": "CENTURY TECHNO SCHOOL",
+        "year": 2020
+      },
+      "secondary_schooling": {
+        "degree": "Intermediate Certificate",
+        "school": "SRI CHAITNAYA JUNIOR COLLAGE",
+        "year": 2022
+      },
+      "post_graduation": {
+        "degree": "ENGINEERING",
+        "branch": "CSE",
+        "university": "MALLAREDDY UNIVERSITY",
+        "year": 2026
+      }
+    }
+  }
